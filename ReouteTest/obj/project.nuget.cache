@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3K+mwmBiSQuzRTX/6jX+47vBZbKYIV42x3L9pTQaLqmWHTXxtInubbYQ8x9L03LJRbD25JaPbKjJG3Gk3sZlQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\ReouteTestProject\\ReouteTest\\ReouteTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwangjinhyun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hwangjinhyun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hwangjinhyun\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\hwangjinhyun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\hwangjinhyun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\hwangjinhyun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
