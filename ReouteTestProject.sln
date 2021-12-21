@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReouteTest", "ReouteTest\ReouteTest.csproj", "{6B49C0DC-AFFD-49CF-8D3C-791401B3AA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B49C0DC-AFFD-49CF-8D3C-791401B3AA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B49C0DC-AFFD-49CF-8D3C-791401B3AA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B49C0DC-AFFD-49CF-8D3C-791401B3AA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B49C0DC-AFFD-49CF-8D3C-791401B3AA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD8DE377-3B6D-48EE-A9D3-ADF2C5356CC8}
+	EndGlobalSection
+EndGlobal
